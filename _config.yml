@@ -1,9 +1,9 @@
 title: River Bellamy # your name (or website title) here
-logo: "/images/river.jpg?raw=true" # your photo (or logo) here
+logo: "/images/river.jpg?" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
   Former math teacher turned data scientist
   <br><br>
-  <a href="www.linkedin.com/in/RiverBellamy ">View My LinkedIn Profile</a> 
+  <a href="http://www.linkedin.com/in/RiverBellamy ">View My LinkedIn Profile</a> 
   
 theme: jekyll-theme-minimal
 google_analytics: UA-000000-0 # your Google Analytics tracking ID here
